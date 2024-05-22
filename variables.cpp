@@ -11,6 +11,12 @@ int main(){ // main function is always entry point of c++ program
     char c = 'c'; // character, assign single character with single quotations
     bool b = true; // (1) or false (0), boolean
 
-    //auto a, b = 1, 2.5;
+    int a = 1, b = 1; // multiple variable declarations
+    auto a = 1.4, b = 2.5; // auto keyword assigns impled datatype
+
+    string input;
+    int input2;
+    cin >> input >> input2; // multiple inputs; single input cin >> input;
+    cout << "input: " << input; // outputs
 
 }
