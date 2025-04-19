@@ -30,8 +30,8 @@ int main(){
             cout << 3;
             break;
         default:
-            cout << 'other';
-
+            cout << "other";
+    }
     // multiple conditions
     // &&   logical AND
     // ||   logical OR
