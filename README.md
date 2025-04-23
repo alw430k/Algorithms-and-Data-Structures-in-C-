@@ -1,8 +1,8 @@
 C++ for algorithms and data structure basics!
-Beginning for C++-based application development
+Beginning for C++ based application development
 
-# AAA Fundamentals Progression Order AAA
-# Introduction
+#   A. Fundamentals
+# introduction
 1. helloworld.cpp
 2. variables.cpp
 3. operations.cpp
@@ -14,7 +14,7 @@ Beginning for C++-based application development
 9. dynamic_memory.cpp
 10. functions.cpp
 
-# Classes
+# classes
 11. OOP.cpp
 12. MULTIFILE1_main.cpp
     MULTIFILE1_classes.cpp
@@ -28,9 +28,10 @@ Beginning for C++-based application development
 17. this.cpp
 18. operator_overloading.cpp
 
+# OOP
 
-# BBB Data Structures BBB
+#   B. Data Structures
 1. linked_list.cpp
 
-# CCC Algorithms CCC
+#   C. Algorithms
 1. 
