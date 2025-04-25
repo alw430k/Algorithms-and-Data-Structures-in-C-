@@ -1,7 +1,7 @@
 C++ for algorithms and data structure basics!
 Beginning for C++ based application development
 
-#   A. Fundamentals
+#   A. Fundamentals based on SoloLearn
 # introduction
 1. helloworld.cpp
 2. variables.cpp
@@ -28,7 +28,20 @@ Beginning for C++ based application development
 17. this.cpp
 18. operator_overloading.cpp
 
-# OOP
+# inheritance and polymorphism
+19. inheritance.cpp
+    Inheritance
+    Protected Members
+    Derived Class Constructor/Destructors
+20. polymorphism.cpp
+21. virtual_functions.cpp
+    Virtual Functions
+22. abstract_classes.cpp
+    Pure Virtual Functions
+
+# templates, exceptions, files
+23. function_templates.cpp
+24. class_templates.cpp
 
 #   B. Data Structures
 1. linked_list.cpp
