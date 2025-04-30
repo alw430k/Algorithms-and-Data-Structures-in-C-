@@ -42,6 +42,10 @@ Beginning for C++ based application development
 # templates, exceptions, files
 23. function_templates.cpp
 24. class_templates.cpp
+25. template_specialization.cpp
+26. exceptions.cpp
+27. files.cpp
+    test.txt
 
 #   B. Data Structures
 1. linked_list.cpp
